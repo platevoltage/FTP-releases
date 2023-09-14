@@ -1,0 +1,40 @@
+Package: fasttardypass-react
+Version: 1.0.0
+Architecture: amd64
+Maintainer: electronjs.org
+Installed-Size: 255590
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: ./fasttardypass-react_1.0.0_amd64.deb
+Size: 73505898
+MD5sum: 3c52b49ba336698fbb876dda13d4d757
+SHA1: a552107e65a38c3ebf38d9237f0973719089c94e
+SHA256: db62346695f9f385633c637cddb235ac97debc893d2365b5898069216cf3d92c
+Section: default
+Priority: optional
+Homepage: https://www.electronjs.org
+Description:
+  An Electron application with React and TypeScript
+License: unknown
+Vendor: electronjs.org
+
+Package: fasttardypass-react
+Version: 1.0.0
+Architecture: arm64
+Maintainer: electronjs.org
+Installed-Size: 262215
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: ./fasttardypass-react_1.0.0_arm64.deb
+Size: 69723800
+MD5sum: 844f405538ca36e254ab682e3de70ef1
+SHA1: 42fd35f63f7952d3aa0025c9c323f1182c97e356
+SHA256: 64e36ac975f540ebc0b777382c2ae2ff1dbf163e3f2da60b580baee282532dfc
+Section: default
+Priority: optional
+Homepage: https://www.electronjs.org
+Description:
+  An Electron application with React and TypeScript
+License: unknown
+Vendor: electronjs.org
+
