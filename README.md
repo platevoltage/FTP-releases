@@ -1,1 +1,1 @@
-test
+FTP RELEASES
